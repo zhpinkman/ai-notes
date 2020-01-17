@@ -33,3 +33,7 @@ Entropy : A decision tree is built top-down from a root node and involves partit
 ![entropy equation](https://miro.medium.com/max/391/1*nNY_7_aWRwp8E2DyGduEPg.png)
 
 entropy equation
+
+- More uniform = higher entropy
+- More values = higher entropy
+- More peaked = lower entropy
